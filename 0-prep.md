@@ -1,5 +1,5 @@
 ---
-title: Menu-1
+title: Registration
 nav: true
 ---
 
