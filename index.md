@@ -25,6 +25,7 @@ title: Home
 |**Chihiro SATO** | **Nagoya**|  
 |**Norio YOSHIDA** | **Nagoya** |  
 |**Futa YOSHIMURA** | **Nagoya** |
+{: style="margin-left: auto; margin-right: auto;"}
 
 ### **Co-organized by: (to be worked)**
 {% include figure.html img="" alt="intro image here" caption="sponser" width="40%" %}
