@@ -15,7 +15,7 @@ title: Home
 
 *Add your workshop abstract here!* -->
 
-<small> *Biomolecular interactions are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.* </small>
+<small> *Biomolecular interactions are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of theoretical/computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.* </small>
 
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
@@ -27,10 +27,10 @@ title: Home
 |**Futa YOSHIMURA** | **Nagoya** |
 {: style="margin-left: auto; margin-right: auto;"}
 
-### **Co-organized by: (to be worked)**
+#### **Co-organized by: (to be worked)**
 {% include figure.html img="" alt="intro image here" caption="sponser" width="40%" %}
 
-### **Contact: Takahisa YAMATO**  
+#### **Contact: Takahisa YAMATO**  
 (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
 
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
