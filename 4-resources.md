@@ -1,8 +1,11 @@
 ---
-title: Resources
+title: Menu-5
 nav: true
 ---
 
+# Under construction
+
+<!--
 # Resources
 
 To learn how to use `workshop-template`, the [Readme](https://github.com/evanwill/workshop-template/blob/main/README.md) and content pages have some documentation.
@@ -51,3 +54,4 @@ Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in
 All normal CSS is valid SCSS, but Sass adds many powerful functions and programatic features. 
 Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
 Jekyll lets you write SASS in modular chucks called partials, in the `_sass` directory, that will be combined and compiled into normal CSS files when the site is built.
+-->

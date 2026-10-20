@@ -1,8 +1,11 @@
 ---
-title: Start
+title: Menu-3
 nav: true
 ---
 
+# Under construction
+
+<!--
 # Get Started
 
 The `workshop-template` [repository](https://github.com/evanwill/workshop-template) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
@@ -45,3 +48,4 @@ Nam maximus eget orci id pretium. Pellentesque feugiat mauris eu nulla viverra c
 {% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Be sure to replace all the example values!" width="75%" %}
 
 Ut dapibus lectus tristique efficitur dictum. Quisque efficitur ornare sagittis. Donec ex sem, volutpat quis scelerisque quis, scelerisque non neque. Vivamus convallis felis vel eros pulvinar faucibus. Aliquam finibus pretium odio a pharetra. Nullam ac commodo magna. Fusce et feugiat sem. Nunc vitae scelerisque metus. Aenean sodales placerat mi in aliquet. Curabitur pulvinar auctor mauris quis faucibus. Ut commodo imperdiet ante, at dignissim tellus ultricies ut. Donec at lacus ultrices sem vulputate semper. Donec commodo porta nunc, non tristique mi interdum quis. Phasellus rhoncus bibendum ipsum, ac malesuada augue pulvinar et. Etiam finibus lacus massa, sit amet faucibus lorem consequat sit amet. 
+-->
