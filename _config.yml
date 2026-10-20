@@ -8,9 +8,9 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: International Symposium
 # description and keywords for meta tags
-description: "International Symposium on Biomolecular Interactions and Reactions: Theory and Experiments"
+description: "Biomolecular Interactions and Reactions: Theory and Experiments"
 keywords: "Protein, Glycan, Solvation, NMR, Ligand binding, Thermal transport"
 
 # author settings for cc-by, appears in the footer

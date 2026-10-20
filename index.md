@@ -4,7 +4,7 @@ title: Home
 
 # International Symposium on Biomolecular Interactions and Reactions: Theory and Experiments
 
-{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}
 
 A minimal Jekyll theme for creating workshop websites.
 
