@@ -4,7 +4,8 @@ title: Home
 
 # **Biomolecular Interactions and Reactions:** <br> **Theory and Experiments**
 
-{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}
+<!--{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}-->
+{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="50%" %}
 
 ### **DATE: Saturday, January 30, 2027**
 
@@ -16,8 +17,6 @@ title: Home
 
 *Biomolecular interactions are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.*
 
-<div align="center">
-
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
 |**Hidekazu HIROAKI** |**Nagoya**|  
@@ -26,8 +25,6 @@ title: Home
 |**Chihiro SATO** | **Nagoya**|  
 |**Norio YOSHIDA** | **Nagoya** |  
 |**Futa YOSHIMURA** | **Nagoya** |  
-
-</div>
 
 <br>
 ### **Co-organized by: (to be worked)**
