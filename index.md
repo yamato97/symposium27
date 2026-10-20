@@ -25,6 +25,9 @@ title: Home
 |**Norio YOSHIDA** | **Nagoya** |  
 |**Futa YOSHIMURA** | **Nagoya** |  
 
+### Sponser: (to be worked)
+### Contact: Takahisa YAMATO (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
+
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
 Fun! -->
