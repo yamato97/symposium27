@@ -2,14 +2,14 @@
 title: Home
 ---
 
-# **Biomolecular Interactions and Reactions:** <br> **Theory and Experiments**
+## **Biomolecular Interactions and Reactions:** <br> **Theory and Experiments**
 
 <!--{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}-->
-{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="50%" %}
+{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="60%" %}
 
 ### **DATE: Saturday, January 30, 2027**
 
-### **PLACE: Neorex place seminar room, Science South Bldg., Nagoya Univ.**
+### **PLACE: Neorex Place Seminar Room, Science South Bldg., Nagoya Univ.**
 
 <!-- A minimal Jekyll theme for creating workshop websites.
 
@@ -24,11 +24,11 @@ title: Home
 |**Toshifumi MORI** |**Kyoto** |  
 |**Chihiro SATO** | **Nagoya**|  
 |**Norio YOSHIDA** | **Nagoya** |  
-|**Futa YOSHIMURA** | **Nagoya** |  
+|**Futa YOSHIMURA** | **Nagoya** |
 
 <br>
 ### **Co-organized by: (to be worked)**
-{% include figure.html img="" alt="intro image here" caption="sponser" width="75%" %}
+{% include figure.html img="" alt="intro image here" caption="sponser" width="40%" %}
 
 ### **Contact: Takahisa YAMATO**  
 (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
