@@ -10,12 +10,13 @@ A minimal Jekyll theme for creating workshop websites.
 
 *Add your workshop abstract here!*
 
+Interatomic and intermolecular interactions among biomolecules are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
+<!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
-Fun!
+Fun! -->
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+<!-- *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version. -->
 
 <div class="toc" markdown="1">
 ## Contents:
