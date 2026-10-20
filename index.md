@@ -6,9 +6,9 @@ title: Home
 
 {% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}
 
-## DATE: Saturday, January 30, 2027
+#### DATE: Sat., Jan. 30, 2027
 
-## PLACE: Neorex place seminar room, South bldg., Nagoya University
+#### PLACE: Neorex place seminar room, Science South Bldg., Nagoya Univ.
 
 A minimal Jekyll theme for creating workshop websites.
 
