@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# International Symposium on Biomolecular Interactions and Reactions: Theory and Experiments
+# Biomolecular Interactions and Reactions: Theory and Experiments
 
 {% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}
 
