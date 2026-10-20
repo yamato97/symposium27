@@ -29,7 +29,7 @@ title: Home
 ### **Co-organized by: (to be worked)**
 {% include figure.html img="" alt="intro image here" caption="sponser" width="75%" %}
 
-### **Contact: Takahisa YAMATO (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")**
+### **Contact: Takahisa YAMATO** (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
 
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
