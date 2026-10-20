@@ -19,12 +19,12 @@ title: Home
 
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
-|**Hidekazu HIROAKI** &nbsp &nbsp &nbsp|**Nagoya**|  
-|**David LEITNER** &nbsp &nbsp &nbsp|**Nevada** |  
-|**Toshifumi MORI** &nbsp &nbsp &nbsp|**Kyoto** |  
-|**Chihiro SATO** &nbsp &nbsp &nbsp| **Nagoya**|  
-|**Norio YOSHIDA** &nbsp &nbsp &nbsp| **Nagoya** |  
-|**Futa YOSHIMURA** &nbsp &nbsp &nbsp| **Nagoya** |
+|**Hidekazu HIROAKI** |**Nagoya**|  
+|**David LEITNER** |**Nevada** |  
+|**Toshifumi MORI** |**Kyoto** |  
+|**Chihiro SATO** | **Nagoya**|  
+|**Norio YOSHIDA** | **Nagoya** |  
+|**Futa YOSHIMURA** | **Nagoya** |
 {: style="margin-left: auto; margin-right: auto;"}
 
 #### **Co-organized by: (to be worked)**
