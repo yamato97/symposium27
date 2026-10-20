@@ -2,13 +2,13 @@
 title: Home
 ---
 
-# Biomolecular Interactions and Reactions: <br> Theory and Experiments
+# **Biomolecular Interactions and Reactions:** <br> **Theory and Experiments**
 
 {% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Symposium '27" width="75%" %}
 
-### DATE: Sat., Jan. 30, 2027
+### **DATE: Saturday, January 30, 2027**
 
-### PLACE: Neorex place seminar room, Science South Bldg., Nagoya Univ.
+### **PLACE: Neorex place seminar room, Science South Bldg., Nagoya Univ.**
 
 <!-- A minimal Jekyll theme for creating workshop websites.
 
@@ -16,15 +16,14 @@ title: Home
 
 *Interatomic and intermolecular interactions among biomolecules are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.*
 
-### INVITED SPEAKERS
-|                 |      |
-| --------------- | ---- |
-|Hidekazu HIROAKI |Nagoya|  
-|David LEITNER |Nevada |  
-|Toshifumi MORI |Kyoto |  
-|Chihiro SATO | Nagoya|  
-|Norio YOSHIDA | Nagoya |  
-|Futa YOSHIMURA | Nagoya |  
+| **INVITED SPEAKERS** |      |  
+| :--------------- | :---- |  
+|**Hidekazu HIROAKI** |**Nagoya**|  
+|**David LEITNER** |**Nevada** |  
+|**Toshifumi MORI** |**Kyoto** |  
+|**Chihiro SATO** | **Nagoya**|  
+|**Norio YOSHIDA** | **Nagoya** |  
+|**Futa YOSHIMURA** | **Nagoya** |  
 
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
