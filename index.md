@@ -14,9 +14,7 @@ title: Home
 
 *Add your workshop abstract here!* -->
 
-*Interatomic and intermolecular interactions among biomolecules are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.*
-
-<div style ="display: flex; justify-content: center;">
+*Biomolecular interactions are key factors governing biological functions. For this symposium, we have invited leading theoretical and experimental researchers to present the latest advances in their research, which makes full use of computational methods, nuclear magnetic resonance (NMR), and biochemical experiments.*
 
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
@@ -26,8 +24,6 @@ title: Home
 |**Chihiro SATO** | **Nagoya**|  
 |**Norio YOSHIDA** | **Nagoya** |  
 |**Futa YOSHIMURA** | **Nagoya** |  
-
-</div>
 
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
