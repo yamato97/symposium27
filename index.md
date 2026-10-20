@@ -2,13 +2,14 @@
 title: Home
 ---
 
-# Workshop Template!
+# International Symposium on Biomolecular Interactions and Reactions: Theory and Experiments
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="eye-catch-sample.png" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A minimal Jekyll theme for creating workshop websites.
 
 *Add your workshop abstract here!*
+
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
@@ -24,7 +25,7 @@ Fun!
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Hosted by [Computational Biophysics Lab, Nagoya University](https://www.comp-biophys.com/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
