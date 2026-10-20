@@ -54,6 +54,11 @@ $on-laptop:        800px !default;
   }
 }
 
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 // Import partials.
 @import
   "base",
