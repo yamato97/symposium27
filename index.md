@@ -28,7 +28,7 @@ title: Home
 {: style="margin-left: auto; margin-right: auto;"}
 
 #### **Co-organized by: Institute for Advanced Study, Nagoya University**
-{% include figure.html img="591-354-max.png" alt="intro image here" caption="sponser" width="40%" %}
+{% include figure.html img="591-354-max.png" alt="intro image here" caption="sponser" width="25%" %}
 
 #### **Contact: Takahisa YAMATO**  
 (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
