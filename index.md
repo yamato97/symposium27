@@ -27,8 +27,8 @@ title: Home
 |**Futa YOSHIMURA** | **Nagoya** |
 {: style="margin-left: auto; margin-right: auto;"}
 
-#### **Co-organized by: (to be worked)**
-{% include figure.html img="" alt="intro image here" caption="sponser" width="40%" %}
+#### **Co-organized by: Institute for Advanced Study, Nagoya University**
+{% include figure.html img="591-354-max.png" alt="intro image here" caption="sponser" width="40%" %}
 
 #### **Contact: Takahisa YAMATO**  
 (yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
