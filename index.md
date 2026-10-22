@@ -19,13 +19,13 @@ title: Home
 
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
-|**Hidekazu HIROAKI    ** |**    Nagoya**|  
-|**Kazutomo KAWAGUCHI    **|**    Kanazawa**|
-|**David LEITNER    ** |**    Nevada** |  
-|**Toshifumi MORI    ** |**    Kyoto** |  
-|**Chihiro SATO    ** | **    Nagoya**|  
-|**Norio YOSHIDA    ** | **    Nagoya** |  
-|**Futa YOSHIMURA    ** | **    Nagoya** |
+|**Hidekazu HIROAKI** |(Nagoya)|  
+|**Kazutomo KAWAGUCHI** |(Kanazawa)|
+|**David LEITNER** |(Nevada)|  
+|**Toshifumi MORI** |(Kyoto)|  
+|**Chihiro SATO** |(Nagoya)|  
+|**Norio YOSHIDA** |(Nagoya)|  
+|**Futa YOSHIMURA** |(Nagoya)|
 {: style="margin-left: auto; margin-right: auto;"}
 <br>
 #### **Co-organized by: Institute for Advanced Study, Nagoya University**
