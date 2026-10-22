@@ -14,12 +14,12 @@ description: "Biomolecular Interactions and Reactions: Theory and Experiments"
 keywords: "Protein, Glycan, Solvation, NMR, Ligand binding, Thermal transport"
 
 # author settings for cc-by, appears in the footer
-author: Takahisa YAMATO
-pub_year: 2026-7
-github_username: yamato97
+author: evan will
+pub_year: 2018
+github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/yamato97/symposium27"
+repo: "https://github.com/evanwill/workshop-template"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
