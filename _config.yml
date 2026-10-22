@@ -14,9 +14,9 @@ description: "Biomolecular Interactions and Reactions: Theory and Experiments"
 keywords: "Protein, Glycan, Solvation, NMR, Ligand binding, Thermal transport"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Takahisa YAMATO
+pub_year: 2026-2027
+github_username: yamato97
 
 # add the full url for the github repository
 repo: "https://github.com/evanwill/workshop-template"
