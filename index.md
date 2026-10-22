@@ -20,13 +20,14 @@ title: Home
 | **INVITED SPEAKERS** |      |  
 | :--------------- | :---- |  
 |**Hidekazu HIROAKI** |**Nagoya**|  
+|**Kazutomo KAWAGUCHI**|**Kanazawa**|
 |**David LEITNER** |**Nevada** |  
 |**Toshifumi MORI** |**Kyoto** |  
 |**Chihiro SATO** | **Nagoya**|  
 |**Norio YOSHIDA** | **Nagoya** |  
 |**Futa YOSHIMURA** | **Nagoya** |
 {: style="margin-left: auto; margin-right: auto;"}
-
+<br>
 #### **Co-organized by: Institute for Advanced Study, Nagoya University**
 {% include figure.html img="591-354-max.png" alt="intro image here" caption="sponser" width="25%" %}
 
