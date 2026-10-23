@@ -32,7 +32,7 @@ title: Home
 {% include figure.html img="591-354-max.png" alt="intro image here" caption="sponser" width="25%" %}
 
 #### **Contact: Takahisa YAMATO**  
-(yamato[at]nagoya-u.jp Please substitute "@" for "[at]")
+email: yamato[at]nagoya-u.jp (Please substitute "@" for "[at]")
 
 <!-- Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
@@ -48,7 +48,7 @@ Fun! -->
 {% endfor %}
 </div>
 
-Hosted by [Computational Biophysics Lab, Nagoya University](https://www.comp-biophys.com/), {{ site.pub_year }}.
+Hosted by [Computational Biophysics Lab (Y-group), Nagoya University](https://www.comp-biophys.com/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
