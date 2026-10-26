@@ -23,6 +23,7 @@ title: Home
 |**Kazutomo KAWAGUCHI** |(Kanazawa)|
 |**David LEITNER** |(Nevada)|  
 |**Toshifumi MORI** |(Kyoto)|  
+|**Kosei NOZAKI** |(Nagoya)|
 |**Chihiro SATO** |(Nagoya)|  
 |**Norio YOSHIDA** |(Nagoya)|  
 |**Futa YOSHIMURA** |(Nagoya)|
