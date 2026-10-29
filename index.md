@@ -9,7 +9,7 @@ title: Home
 
 ### **DATE: Saturday, January 30, 2027**
 
-### **PLACE: Neorex Place Seminar Room, Science South Bldg., Nagoya Univ.**
+### **VENUE: Neorex Place Seminar Room, Science South Bldg., Nagoya Univ.**
 
 <!-- A minimal Jekyll theme for creating workshop websites.
 
